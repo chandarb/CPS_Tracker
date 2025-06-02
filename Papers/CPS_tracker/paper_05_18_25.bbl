@@ -1,0 +1,205 @@
+\begin{thebibliography}{34}
+\newcommand{\enquote}[1]{``#1''}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[\protect\citeauthoryear{Abel and Deitz}{Abel and
+  Deitz}{2017}]{abel_underemployment_2017}
+\textsc{Abel, J.~R. and R.~Deitz} (2017): \enquote{Underemployment in the
+  {Early} {Careers} of {College} {Graduates} following the {Great}
+  {Recession},} in \emph{Education, {Skills}, and {Technical} {Change}:
+  {Implications} for {Future} {US} {GDP} {Growth}}, University of Chicago
+  Press, 149--181.
+
+\bibitem[\protect\citeauthoryear{Acemoglu, Autor, Hazell, and
+  Restrepo}{Acemoglu et~al.}{2022}]{acemoglu_artificial_2022}
+\textsc{Acemoglu, D., D.~Autor, J.~Hazell, and P.~Restrepo} (2022):
+  \enquote{Artificial {Intelligence} and {Jobs}: {Evidence} from {Online}
+  {Vacancies},} \emph{Journal of Labor Economics}, 40, S293--S340, publisher:
+  The University of Chicago Press.
+
+\bibitem[\protect\citeauthoryear{Allen}{Allen}{2025}]{allen_behind_2025}
+\textsc{Allen, Mike, J.~V.} (2025): \enquote{Behind the {Curtain}: {Top} {AI}
+  {CEO} foresees white-collar bloodbath,} .
+
+\bibitem[\protect\citeauthoryear{Autor, Levy, and Murnane}{Autor
+  et~al.}{2003}]{autor_skill_2003}
+\textsc{Autor, D.~H., F.~Levy, and R.~J. Murnane} (2003): \enquote{The {Skill}
+  {Content} of {Recent} {Technological} {Change}: {An} {Empirical}
+  {Exploration}*,} \emph{The Quarterly Journal of Economics}, 118, 1279--1333.
+
+\bibitem[\protect\citeauthoryear{Bick, Blandin, and Deming}{Bick
+  et~al.}{2024}]{bick_rapid_2024}
+\textsc{Bick, A., A.~Blandin, and D.~J. Deming} (2024): \enquote{The {Rapid}
+  {Adoption} of {Generative} {AI},} .
+
+\bibitem[\protect\citeauthoryear{Bonney, Breaux, Buffington, Dinlersoz, Foster,
+  Goldschlag, Haltiwanger, Kroff, and Savage}{Bonney
+  et~al.}{2024}]{bonney_impact_2024}
+\textsc{Bonney, K., C.~Breaux, C.~Buffington, E.~Dinlersoz, L.~Foster,
+  N.~Goldschlag, J.~Haltiwanger, Z.~Kroff, and K.~Savage} (2024): \enquote{The
+  impact of {AI} on the workforce: {Tasks} versus jobs?} \emph{Economics
+  Letters}, 244, 111971.
+
+\bibitem[\protect\citeauthoryear{{Bryce Codell}}{{Bryce
+  Codell}}{2023}]{Codell2023_TrendsReport}
+\textsc{{Bryce Codell}} (2023): \enquote{{2023 Trends Report | Applications Per
+  Job},} {Ashby Blog}, accessed: 2025-05-30.
+
+\bibitem[\protect\citeauthoryear{Brynjolfsson, Li, and Raymond}{Brynjolfsson
+  et~al.}{2025}]{brynjolfsson_generative_2025}
+\textsc{Brynjolfsson, E., D.~Li, and L.~Raymond} (2025): \enquote{Generative
+  {AI} at {Work}*,} \emph{The Quarterly Journal of Economics}, 140, 889--942.
+
+\bibitem[\protect\citeauthoryear{Brynjolfsson, Mitchell, and Rock}{Brynjolfsson
+  et~al.}{2018}]{brynjolfsson_what_2018}
+\textsc{Brynjolfsson, E., T.~Mitchell, and D.~Rock} (2018): \enquote{What {Can}
+  {Machines} {Learn}, and {What} {Does} {It} {Mean} for {Occupations} and the
+  {Economy}?} \emph{AEA Papers and Proceedings}, 108, 43--47.
+
+\bibitem[\protect\citeauthoryear{Chen, Srinivasan, and Zakerinia}{Chen
+  et~al.}{2025}]{chen_displacement_2025}
+\textsc{Chen, W.~X., S.~Srinivasan, and S.~Zakerinia} (2025):
+  \enquote{Displacement or {Complementarity}? {The} {Labor} {Market} {Impact}
+  of {Generative} {AI},} .
+
+\bibitem[\protect\citeauthoryear{Dell'Acqua, McFowland~III, Mollick,
+  Lifshitz-Assaf, Kellogg, Rajendran, Krayer, Candelon, and Lakhani}{Dell'Acqua
+  et~al.}{2023}]{dellacqua_navigating_2023}
+\textsc{Dell'Acqua, F., E.~McFowland~III, E.~R. Mollick, H.~Lifshitz-Assaf,
+  K.~Kellogg, S.~Rajendran, L.~Krayer, F.~Candelon, and K.~R. Lakhani} (2023):
+  \enquote{Navigating the {Jagged} {Technological} {Frontier}: {Field}
+  {Experimental} {Evidence} of the {Effects} of {AI} on {Knowledge} {Worker}
+  {Productivity} and {Quality},} .
+
+\bibitem[\protect\citeauthoryear{Deming, Ong, and Summers}{Deming
+  et~al.}{2025}]{deming_technological_2025}
+\textsc{Deming, D.~J., C.~Ong, and L.~H. Summers} (2025):
+  \enquote{Technological {Disruption} in the {Labor} {Market},} .
+
+\bibitem[\protect\citeauthoryear{Dillon, Jaffe, Peng, and Cambon}{Dillon
+  et~al.}{2025}]{dillon2025early}
+\textsc{Dillon, E., S.~Jaffe, S.~Peng, and A.~Cambon} (2025): \enquote{Early
+  Impacts of M365 Copilot,} Tech. Rep. MSR-TR-2025-18, Microsoft.
+
+\bibitem[\protect\citeauthoryear{Eloundou, Manning, Mishkin, and Rock}{Eloundou
+  et~al.}{2024}]{eloundou_gpts_2024}
+\textsc{Eloundou, T., S.~Manning, P.~Mishkin, and D.~Rock} (2024):
+  \enquote{{GPTs} are {GPTs}: {Labor} market impact potential of {LLMs},}
+  \emph{Science}, 384, 1306--1308, publisher: American Association for the
+  Advancement of Science.
+
+\bibitem[\protect\citeauthoryear{Felten, Raj, and Seamans}{Felten
+  et~al.}{2021}]{felten_occupational_2021}
+\textsc{Felten, E., M.~Raj, and R.~Seamans} (2021): \enquote{Occupational,
+  industry, and geographic exposure to artificial intelligence: {A} novel
+  dataset and its potential uses,} \emph{Strategic Management Journal}, 42,
+  2195--2217, \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.3286.
+
+\bibitem[\protect\citeauthoryear{Felten, Raj, and Seamans}{Felten
+  et~al.}{2023}]{felten_how_2023}
+---\hspace{-.1pt}---\hspace{-.1pt}--- (2023): \enquote{How will {Language}
+  {Modelers} like {ChatGPT} {Affect} {Occupations} and {Industries}?}
+  ArXiv:2303.01157 [econ].
+
+\bibitem[\protect\citeauthoryear{Felten, Raj, and Seamans}{Felten
+  et~al.}{2018}]{felten_method_2018}
+\textsc{Felten, E.~W., M.~Raj, and R.~Seamans} (2018): \enquote{A {Method} to
+  {Link} {Advances} in {Artificial} {Intelligence} to {Occupational}
+  {Abilities},} \emph{AEA Papers and Proceedings}, 108, 54--57.
+
+\bibitem[\protect\citeauthoryear{Felten, Raj, and Seamans}{Felten
+  et~al.}{2019}]{felten_occupational_2019}
+---\hspace{-.1pt}---\hspace{-.1pt}--- (2019): \enquote{The {Occupational}
+  {Impact} of {Artificial} {Intelligence}: {Labor}, {Skills}, and
+  {Polarization},} .
+
+\bibitem[\protect\citeauthoryear{Frank, Ahn, and Moro}{Frank
+  et~al.}{2025}]{frank_ai_2025}
+\textsc{Frank, M.~R., Y.-Y. Ahn, and E.~Moro} (2025): \enquote{{AI} exposure
+  predicts unemployment risk: {A} new approach to technology-driven job loss,}
+  \emph{PNAS Nexus}, 4, pgaf107.
+
+\bibitem[\protect\citeauthoryear{Frey and Osborne}{Frey and
+  Osborne}{2017}]{frey_future_2017}
+\textsc{Frey, C.~B. and M.~A. Osborne} (2017): \enquote{The future of
+  employment: {How} susceptible are jobs to computerisation?}
+  \emph{Technological Forecasting and Social Change}, 114, 254--280.
+
+\bibitem[\protect\citeauthoryear{Gmyrek, Berg, and Bescond}{Gmyrek
+  et~al.}{2023}]{gmyrek_generative_2023}
+\textsc{Gmyrek, P., J.~Berg, and D.~Bescond} (2023): \enquote{Generative {AI}
+  and {Jobs}: {A} {Global} {Analysis} of {Potential} {Effects} on {Job}
+  {Quantity} and {Quality},} .
+
+\bibitem[\protect\citeauthoryear{Gmyrek, Berg, Kamiński, Konopczyński,
+  Ładna, Rosłaniec, and Troszyński}{Gmyrek
+  et~al.}{2025}]{gmyrek_generative_2025}
+\textsc{Gmyrek, P., J.~Berg, K.~Kamiński, F.~Konopczyński, A.~Ładna,
+  K.~Rosłaniec, and M.~Troszyński} (2025): \enquote{Generative {AI} and jobs:
+  {A} 2025 update,} .
+
+\bibitem[\protect\citeauthoryear{Hampole, Papanikolaou, Schmidt, and
+  Seegmiller}{Hampole et~al.}{2025}]{hampole_artificial_2025}
+\textsc{Hampole, M., D.~Papanikolaou, L.~D. Schmidt, and B.~Seegmiller} (2025):
+  \enquote{Artificial {Intelligence} and the {Labor} {Market},} .
+
+\bibitem[\protect\citeauthoryear{Hartley, Jolevski, Melo, and Moore}{Hartley
+  et~al.}{2024}]{hartley_labor_2024}
+\textsc{Hartley, J., F.~Jolevski, V.~Melo, and B.~Moore} (2024): \enquote{The
+  {Labor} {Market} {Effects} of {Generative} {Artificial} {Intelligence},} .
+
+\bibitem[\protect\citeauthoryear{Hui, Reshef, and Zhou}{Hui
+  et~al.}{2023}]{hui_short-term_2023}
+\textsc{Hui, X., O.~Reshef, and L.~Zhou} (2023): \enquote{The {Short}-{Term}
+  {Effects} of {Generative} {Artificial} {Intelligence} on {Employment}:
+  {Evidence} from an {Online} {Labor} {Market},} .
+
+\bibitem[\protect\citeauthoryear{Humlum and Vestergaard}{Humlum and
+  Vestergaard}{2025}]{humlum_large_2025}
+\textsc{Humlum, A. and E.~Vestergaard} (2025): \enquote{Large {Language}
+  {Models}, {Small} {Labor} {Market} {Effects},} .
+
+\bibitem[\protect\citeauthoryear{Jiang, Park, Xiao, and Zhang}{Jiang
+  et~al.}{2025}]{jiang_ai_2025}
+\textsc{Jiang, W., J.~Park, R.~Xiao, and S.~Zhang} (2025): \enquote{{AI} and
+  the {Extended} {Workday}: {Productivity}, {Contracting} {Efficiency}, and
+  {Distribution} of {Rents},} .
+
+\bibitem[\protect\citeauthoryear{{Lenny Rachitsky}}{{Lenny
+  Rachitsky}}{2025}]{Rachitsky2025_ProductMarket}
+\textsc{{Lenny Rachitsky}} (2025): \enquote{{State of the product job market in
+  2025},} \emph{{Lenny's Newsletter}}, accessed: 2025-05-30.
+
+\bibitem[\protect\citeauthoryear{Noy and Zhang}{Noy and
+  Zhang}{2023}]{noy_experimental_2023}
+\textsc{Noy, S. and W.~Zhang} (2023): \enquote{Experimental evidence on the
+  productivity effects of generative artificial intelligence,} \emph{Science},
+  381, 187--192, publisher: American Association for the Advancement of
+  Science.
+
+\bibitem[\protect\citeauthoryear{Peng, Kalliamvakou, Cihon, and Demirer}{Peng
+  et~al.}{2023}]{peng_impact_2023}
+\textsc{Peng, S., E.~Kalliamvakou, P.~Cihon, and M.~Demirer} (2023):
+  \enquote{The {Impact} of {AI} on {Developer} {Productivity}: {Evidence} from
+  {GitHub} {Copilot},} ArXiv:2302.06590 [cs].
+
+\bibitem[\protect\citeauthoryear{Raman}{Raman}{2025}]{raman_opinion_2025}
+\textsc{Raman, A.} (2025): \enquote{Opinion {\textbar} {I}’m a {LinkedIn}
+  {Executive}. {I} {See} the {Bottom} {Rung} of the {Career} {Ladder}
+  {Breaking}.} \emph{The New York Times}.
+
+\bibitem[\protect\citeauthoryear{Thompson}{Thompson}{2025}]{thompson_something_2025}
+\textsc{Thompson, D.} (2025): \enquote{Something {Alarming} {Is} {Happening} to
+  the {Job} {Market},} Section: Economy.
+
+\bibitem[\protect\citeauthoryear{Van~Dam}{Van~Dam}{2025}]{dam_more_2025}
+\textsc{Van~Dam, A.} (2025): \enquote{More than a quarter of
+  computer-programming jobs just vanished. {What} happened?} \emph{The
+  Washington Post}.
+
+\bibitem[\protect\citeauthoryear{Webb}{Webb}{2019}]{webb_impact_2019}
+\textsc{Webb, M.} (2019): \enquote{The {Impact} of {Artificial} {Intelligence}
+  on the {Labor} {Market},} .
+
+\end{thebibliography}
