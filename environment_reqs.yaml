@@ -1,0 +1,20 @@
+name: research
+dependencies:
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - plotly
+  - plotnine
+  - requests
+  - openpyxl
+  - python-dotenv
+  - pip
+  - pip:
+    - binsreg
+    - ipumspy
+    - google-generativeai
