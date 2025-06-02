@@ -2,7 +2,7 @@
 
 Replication code for "Tracking Employment Changes in AI-Exposed Jobs."
 
-The replication code builds off of Eloundou et al. (2024). Their original replication file is in code/gpts_are_gpts_script1.ipynb.
+The replication code builds off of Eloundou et al. (2024). Their original replication file is in `code/gpts_are_gpts_script1.ipynb`.
 
 Code to map tasks to occupations is in `code/task_to_occupation.ipynb`. 
 
