@@ -1,3 +1,7 @@
 Papers/CPS_tracker/*
 .DS_Store 
 
+CPS_Tracker/code/testing.ipynb
+CPS_Tracker/data/maine_employment.csv
+CPS_Tracker/data/~$2018-occupation-code-list-and-crosswalk.xlsx
+texput.log
